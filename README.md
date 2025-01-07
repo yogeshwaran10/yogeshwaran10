@@ -1,3 +1,5 @@
+![Cover Image](Cover%20Pic.png)
+
 # Hey there, I'm Yogesh! 👋
 
 Welcome to my little corner of the code universe. I’m a tech enthusiast, AI explorer, and all-around geek who loves building stuff, breaking stuff, and fixing it again (preferably before my coffee runs out).
