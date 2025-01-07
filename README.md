@@ -25,9 +25,9 @@ Welcome to my little corner of the code universe. I’m a tech enthusiast, AI ex
 - 🛠️ **Tools/Tech:** Git, Linux, Docker, SQL  
 - 🧑‍🔬 **Other Interests:** Cloud Computing, Databases, Cybersecurity, Generative AI
 
-## Let's Connect! 🤝
+## Social 🧑‍💻
 
-- 📝 **LinkedIn:** [Click Here!](https://www.linkedin.com/in/yogeshwaran10)
+- 📝 **LinkedIn:** [ Let's Connect! 🤝](https://www.linkedin.com/in/yogeshwaran10)
 
 ## Fun Fact 🤓
 
