@@ -29,7 +29,7 @@ Welcome to my little corner of the code universe. I’m a tech enthusiast, AI ex
 
 ## Social 🧑‍💻
 
-- 📝 **LinkedIn:** [ Let's Connect! 🤝](https://www.linkedin.com/in/yogeshwaran10)
+- 📝 **LinkedIn:** [Let's Connect! 🤝](https://www.linkedin.com/in/yogeshwaran10)
 
 ## Fun Fact 🤓
 
@@ -40,3 +40,10 @@ If **Google** can’t find an answer to your problem, don't worry — I’ve pro
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
 So, here’s to less explaining, more coding, and definitely more coffee! ☕
+
+## License
+
+This profile README is licensed under the **[WTFPL](http://www.wtfpl.net/about/)**.  
+Do whatever you want with it, just **don’t blame me if it doesn’t work!**
+
+_The **WTFPL** is a no-warranty, do-what-you-want license._
