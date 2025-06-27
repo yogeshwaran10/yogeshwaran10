@@ -29,7 +29,7 @@ Welcome to my little corner of the code universe. A tech enthusiast I am, AI exp
 
 ## Social 🧑‍💻
 
-- 📝 **LinkedIn:** [Let's Connect! 🤝](https://www.linkedin.com/in/yogeshwaran10)
+- 📝 **LinkedIn:** [Let's Connect! 🤝](https://www.linkedin.com/in/yogeshravichandran)
 
 ## Fun Fact 🤓
 
